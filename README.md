@@ -1,2 +1,2 @@
-# Calculadora-de-gorjeta
-Criando uma calculadora de gorjeta em HTML5, CSS3 e JavaScript
+# Calculadora-de-gorjetas
+Uma calculadora de gorjetas com html, css e javascript
